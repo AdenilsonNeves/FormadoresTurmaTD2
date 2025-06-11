@@ -1,4 +1,18 @@
-body{
+body {
     background-color: #305050;
     color: white;
+}
+
+h2 {
+    color: rgb(82, 170, 170);
+}
+
+.texto_paragrafo{
+    color:#7ac2c2;
+    font-size: 30px;
+}
+
+#nome_usuario{
+    font-weight: bold;
+    color: red;
 }
