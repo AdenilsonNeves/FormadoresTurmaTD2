@@ -4,3 +4,7 @@ function inserirNome(){
     elemento.textContent = nomeUsuario;
 }
 inserirNome();
+let linguagens = ["javascript", "phyton", "C"];
+
+const item = document.querySelector("#lista");
+item.textContent = linguagens[0];
